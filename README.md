@@ -87,18 +87,7 @@ SHM-post_earthquake_monitoring/
 
 If you make use of this code or data, please cite:
 
-```bibtex
-@inproceedings{dente2024heritage,
-  title     = {Preserving the World Heritage: Post‑Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features},
-  author    = {Dente, Francesco and Combey, Andy and Lhéritier, Alix and Acuna‑Agost, Rodrigo and Mercerat, Diego},
-  year      = {2024},
-  booktitle = {Proceedings of ...},
-}
-```
-
 ## License
-
-Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ## Contact
 

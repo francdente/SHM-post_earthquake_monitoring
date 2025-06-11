@@ -1,13 +1,5 @@
 # SHM Post‑Earthquake Monitoring
 
-*A data‑driven framework for vibration‑based health assessment of historical masonry after seismic events*
-
-<!-- Optional badges -->
-
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](#license) [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
-
----
-
 ## Table of Contents
 
 1. [Overview](#overview)

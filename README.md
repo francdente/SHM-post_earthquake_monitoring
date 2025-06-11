@@ -15,7 +15,7 @@
 
 ## Overview
 
-This repository accompanies the paper **“Preserving the World Heritage: Post‑Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features.”** It contains the full data‑processing pipeline, predictive models, and statistical tools needed to reproduce the study.
+This repository accompanies the paper **“Preserving the World Heritage: Post‑Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features.”** It contains the data, predictive models, and statistical tools needed to reproduce the study.
 
 > **Goal** Predict the natural frequencies of a historical building from environmental variables, then detect abnormal post‑seismic behaviour by combining **Temporal Convolutional Networks (TCNs)** with **Bai‑Perron structural‑break testing**.
 

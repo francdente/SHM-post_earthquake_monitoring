@@ -77,12 +77,18 @@ SHM-post_earthquake_monitoring/
 
 ## Citation
 
-If you make use of this code or data, please cite:
+The corresponding paper **“Preserving the World Heritage: Post‑Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features.”** was accepted at ECML-PKDD2025 to be held in Porto in September 2025.
+
+**Authors**: Francesco Dente, Andy Combey, Alix Lhéritier, Rodrigo Acuna-Agost, Diego Mercerat.
 
 ## License
+
+Distributed under the **MIT License**. See [`LICENSE`](LICENSE) for more information.
 
 ## Contact
 
 Francesco Dente — [francesco.dente@eurecom.fr](mailto:francesco.dente@eurecom.fr)
 
 ---
+
+

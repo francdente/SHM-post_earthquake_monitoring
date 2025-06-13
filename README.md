@@ -75,6 +75,8 @@ SHM-post_earthquake_monitoring/
 1. Git clone the repository
 2. Execute the notebooks in both `predictive_modeling/` and `structural_break_analysis` to generate figures.
 
+The statistics reported in the paper in Fig. 7 were obtained by inspecting the values returned by mbreaks:::pftest and mbreaks:::partione for the retained breaks inside the mbreaks:::sequa procedure.
+
 ## Citation
 
 The corresponding paper **“Preserving the World Heritage: Post‑Earthquake Monitoring Based on Structural Break Testing with Deep Temporal Convolutional Features.”** was accepted at ECML-PKDD2025 (Applied Data Science track) to be held in Porto in September 2025.
